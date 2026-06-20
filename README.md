@@ -96,14 +96,21 @@ src
 ⸻
 
 Course Information
+
 Course: KIE2010 Microprocessors and Microcontrollers
+
 Assignment: Assignment 2 – Zebra Crossing Light Controller
+
 Institution: Universiti Malaya
+
 Academic Session: 2025/2026
 
 ⸻
 
 Author:
+
 Aydan Khairin Bin Khairul Zaman
+
 Bachelor of Electrical Engineering
+
 Universiti Malaya
